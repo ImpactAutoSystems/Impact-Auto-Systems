@@ -1,0 +1,33 @@
+@media screen and (max-width: 600px) {
+  #menu{
+    width: 99% ;
+  }
+  .intro h1{
+    font-size: 50px!important;
+  }
+  .intro p{
+    font-size: 15px;
+  }
+  .btn-custom{
+    margin-bottom: 10px;
+  }
+  #about img {
+    width: 100%;
+  }
+  #features {
+    padding: 20px;
+    width: 100%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 100%;
+  }
+
+  #portfolio {
+    width: 100%;
+  }
+}

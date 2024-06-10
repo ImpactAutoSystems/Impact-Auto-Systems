@@ -1,0 +1,250 @@
+{
+  "Header": {
+    "title": "Impact Auto Systems",
+    "paragraph": "Crafting innovative automation solutions with over 15 years of expertise. Specializing in Special Purpose Machines, Injection Moulding, and more."
+  },
+  "About": {
+    "paragraph": "We are a passionate team of professionals dedicated to pushing the boundaries of innovation in the field of automation and machine building. With decades of combined experience, we pride ourselves on our ability to deliver cutting-edge solutions tailored to meet the unique needs of our clients. Our commitment to excellence is evident in every project we undertake, from designing and manufacturing special purpose machines to providing comprehensive automation solutions. At our core, we believe in the power of collaboration and strive to cultivate long-lasting relationships with our clients, built on trust, integrity, and a shared vision for success. Together, we are shaping the future of automation, one innovative solution at a time.",
+    "Why": [
+      "Experienced professionals",
+      "Cutting-edge technology",
+      "Customized solutions",
+      "Exceptional customer service"
+    ],
+    "Why2": [
+      "Strategic partnerships",
+      "Continuous improvement",
+      "Timely project delivery",
+      "Proven track record"
+    ]
+  },
+  
+  "Gallery": [
+    {
+      "title": "Conveyors",
+      "largeImage": "img/portfolio/large image/9.png",
+      "smallImage": "img/portfolio/small image/9.png"
+    },
+    {
+      "title": "Automatic HRA Fuse resistance and Ohm Checking",
+      "largeImage": "img/portfolio/large image/10.png",
+      "smallImage": "img/portfolio/small image/10.png"
+    },
+    {
+      "title": "SPM’s",
+      "largeImage": "img/portfolio/large image/12.png",
+      "smallImage": "img/portfolio/small image/12.png"
+    },
+    {
+      "title": "Assembly Parts",
+      "largeImage": "img/portfolio/large image/13.png",
+      "smallImage": "img/portfolio/small image/13.png"
+    },
+    {
+      "title": "Pick & Place Machines",
+      "largeImage": "img/portfolio/large image/14.png",
+      "smallImage": "img/portfolio/small image/14.png"
+    },
+    {
+      "title": "Electrical Panel Wiring",
+      "largeImage": "img/portfolio/large image/15.png",
+      "smallImage": "img/portfolio/small image/15.png"
+    },
+    {
+      "title": "lathe Machine",
+      "largeImage": "img/portfolio/large image/7.png",
+      "smallImage": "img/portfolio/small image/7.png"
+    },
+    {
+      "title": "Surface grinding & boring and  milling machine",
+      "largeImage": "img/portfolio/large image/8.png",
+      "smallImage": "img/portfolio/small image/8.png"
+    },
+    {
+      "title": "Leak Test Rig",
+      "largeImage": "img/portfolio/large image/16.png",
+      "smallImage": "img/portfolio/small image/16.png"
+    },
+    {
+      "title": "Bowl Feeder",
+      "largeImage": "img/portfolio/large image/18.png",
+      "smallImage": "img/portfolio/small image/18.png"
+    },
+    {
+      "title": "Gap filler machine",
+      "largeImage": "img/portfolio/large image/19.png",
+      "smallImage": "img/portfolio/small image/19.png"
+    },
+    {
+      "title": "Electrical Assembly Part Loading",
+      "largeImage": "img/portfolio/large image/20.png",
+      "smallImage": "img/portfolio/small image/20.png"
+    },
+    {
+      "title": "Actuator Robot",
+      "largeImage": "img/portfolio/large image/21.png",
+      "smallImage": "img/portfolio/small image/21.png"
+    },
+    {
+      "title": "Silencer Parts Plating Bridgestone",
+      "largeImage": "img/portfolio/large image/22.png",
+      "smallImage": "img/portfolio/small image/22.png"
+    },
+    {
+      "title": "Screw Tightening Jig",
+      "largeImage": "img/portfolio/large image/23.png",
+      "smallImage": "img/portfolio/small image/23.png"
+    },
+    {
+      "title": "Car Bumping Assembly",
+      "largeImage": "img/portfolio/large image/24.png",
+      "smallImage": "img/portfolio/small image/24.png"
+    },
+    {
+      "title": "Anabond Swelling Machine",
+      "largeImage": "img/portfolio/large image/25.png",
+      "smallImage": "img/portfolio/small image/25.png"
+    },
+    {
+      "title": "Sleeve Assembly Machine",
+      "largeImage": "img/portfolio/large image/26.png",
+      "smallImage": "img/portfolio/small image/26.png"
+    },
+    {
+      "title": "Shaft Run Out Checking",
+      "largeImage": "img/portfolio/large image/27.png",
+      "smallImage": "img/portfolio/small image/27.png"
+    },   
+   {
+      "title": "Hoze Assembly & Bearing Pressing Machine",
+      "largeImage": "img/portfolio/large image/28.png",
+      "smallImage": "img/portfolio/small image/28.png"
+    },
+    {
+      "title": "Silencer Loading Trolley",
+      "largeImage": "img/portfolio/large image/29.png",
+      "smallImage": "img/portfolio/small image/29.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cogs floating",
+      "name": "Special Purpose Machines",
+      "text": "15 years' experience in custom special-purpose machine design & build."
+    },
+    {
+      "icon": "fa fa-cube floating",
+      "name": "Electrical Panel Wiring",
+      "text": "Our electrical panel wiring services ensure optimal functionality and safety for your machinery."
+    },
+    {
+      "icon": "fa fa-gears floating",
+      "name": "PLC Programming",
+      "text": "We offer comprehensive PLC programming solutions for all types of automation systems."
+    },
+    {
+      "icon": "fa fa-wrench floating",
+      "name": "Machine Tools & Accessories",
+      "text": "We design and manufacture high-quality machine tools and accessories for various industries."
+    },
+    {
+      "icon": "fa fa-users floating",
+      "name": "Conveyors & Material Handling",
+      "text": "Our conveyor and material handling systems ensure smooth and efficient operations."
+    },
+    {
+      "icon": "fa fa-flask floating",
+      "name": "Leak Test Rigs",
+      "text": "Our leak test rigs, both wet and dry, ensure the quality and reliability of your products."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/logos/1.png"
+    },
+    {
+      "img": "img/logos/2.png"
+    },
+    {
+      "img": "img/logos/3.png"
+    },
+    {
+      "img": "img/logos/4.png"
+
+    },
+    {
+      "img": "img/logos/5.png"
+    },
+    {
+      "img": "img/logos/6.png"
+    },
+    {
+      "img": "img/logos/7.png"
+    },
+    {
+      "img": "img/logos/8.png"
+    },
+    {
+      "img": "img/logos/9.png"
+    },
+    {
+      "img": "img/logos/10.png"
+    },
+    {
+      "img": "img/logos/11.png"
+    },
+    {
+      "img": "img/logos/12.png"
+    },
+    {
+      "img": "img/logos/13.png"
+    },
+    {
+      "img": "img/logos/14.png"
+    },
+    {
+      "img": "img/logos/15.png"
+    },
+    {
+      "img": "img/logos/16.png"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/user.png",
+      "name": "M.Palanivel",
+      "job": "Founder",
+      "description": "Palanivel started his career at TVS Wabco in 2009, then worked as an SPM Project Engineer at Dynamic Techno System from 2010 to 2018. In 2019, he founded Impact Auto Components, which has efficiently supplied all OEMs for six years under his leadership."
+    }
+  ],
+  "Contact": {
+    "address": "21E,Chennai Bypass Road, Tass Industrial Estate, Sidco Industrial Estate, Ambattur, Chennai - 600058",
+    "phone": "+91 8939424505",
+    "email": "impautosys@yahoo.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    { 
+      "icon": "fa fa-cogs floating",
+      "title": "Special Machines",
+      "text": "Custom-built machinery designed to meet  production requirements."
+    },
+    {
+      "icon": "fa fa-cube floating",
+      "title": "Injection Moulding",
+      "text": "Precision moulds and dies for creating high-quality plastic components."
+    },
+    {
+      "icon": "fa fa-wrench floating",
+      "title": "Assembly Lines",
+      "text": "Semi-automatic systems for efficient and scalable product assembly."
+    },
+    {
+      "icon": "fa fa-flask floating",
+      "title": "Automation Solutions",
+      "text": "Advanced PLC programming and robotic integration."
+    }
+  ]
+}
