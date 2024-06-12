@@ -1,8 +1,28 @@
 @media screen and (max-width: 600px) {
-  #menu{
-    width: 99% ;
+  body{
+    width: 100% !important;
   }
-  .intro h1{
+  #menu
+  {
+    width: 100%;
+  }
+  #menu .container
+  {
+    width: 80%;
+    padding: 0%;
+    margin-left:4% ;
+    margin-right: 0%;
+  }
+  .navbar{
+    width: auto;
+  }
+  #page-top{
+    width: 100%;
+  }
+  #root{
+    width: 100%;
+  }
+    .intro h1{
     font-size: 50px!important;
   }
   .intro p{
@@ -11,13 +31,12 @@
   .btn-custom{
     margin-bottom: 10px;
   }
-  #about img {
-    width: 100%;
-  }
   #features {
     padding: 20px;
     width: 100%;
   }
+  #header,
+  #pom,
   #about,
   #services,
   #testimonials,
@@ -29,5 +48,12 @@
 
   #portfolio {
     width: 100%;
+  }
+  .portfolio-items{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .sm-mb-2{
+    margin-bottom: 10%;
   }
 }

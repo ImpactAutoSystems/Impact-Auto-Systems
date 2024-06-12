@@ -34,12 +34,12 @@ export const Gallery = (props) => {
         </p>
       </div>
       <div className="row">
-        <div className="portfolio-items">
+        <div className="portfolio-items ">
           {props.data
             ? props.data.slice(0, showAllPhotos ? props.data.length : 6).map((d, i) => (
                 <div
                   key={`${d.title}-${i}`}
-                  className="col-sm-6 col-md-4 col-lg-4 feature-card"
+                  className="col-sm-6 col-md-4 col-lg-4 feature-card sm-mb-2"
                   data-aos="zoom-in"
                 >
                   <div onClick={() => openModal(d.largeImage)}>
