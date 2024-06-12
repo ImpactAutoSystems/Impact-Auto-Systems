@@ -106,7 +106,7 @@ const Pom = (props) => {
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="image-container">
-              <img src="img/pom-image.png" className="img-responsive zoom-in-effect pom-image-placement " alt="" />
+              <img src="img/pom-image.png" className="img-responsive zoom-in-effect pom-image-placement " alt="principles of management" />
               <div className="progress-ring-container floating">
                 <div className="progress-ring">
                   <svg className="progress-ring-circle" width="100" height="100">

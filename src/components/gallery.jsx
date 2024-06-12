@@ -47,6 +47,7 @@ export const Gallery = (props) => {
                       title={d.title}
                       largeImage={d.largeImage}
                       smallImage={d.smallImage}
+                      alt= {d.alt}
                     />
                   </div>
                 </div>

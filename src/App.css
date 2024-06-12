@@ -2,13 +2,13 @@
   body{
     width: 100% !important;
   }
-  #menu
-  {
+  #menu{
     width: 100%;
+    box-sizing: border-box; /* Includes padding and border in the element's total width and height */
   }
   #menu .container
   {
-    width: 80%;
+    width: 87%;
     padding: 0%;
     margin-left:4% ;
     margin-right: 0%;
@@ -22,7 +22,10 @@
   #root{
     width: 100%;
   }
-    .intro h1{
+  #header{
+    width: 100%;
+  }
+  .intro h1{
     font-size: 50px!important;
   }
   .intro p{

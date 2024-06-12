@@ -24,7 +24,7 @@ export const Team = (props) => {
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className="col-md-12 col-sm-12 team" data-aos="zoom-in">
                   <div className="thumbnail">
-                    <img src={d.img} alt="..." className="team-img" />
+                    <img src={d.img} alt={d.alt} className="team-img" />
                     <div className="caption">
                       <div className="name-job">
                         <h4>{d.name}</h4>

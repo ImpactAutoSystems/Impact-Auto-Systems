@@ -74,6 +74,8 @@ hr {
 #menu {
   padding: 15px;
   transition: all 0.8s;
+  width: 100%; /* Ensures the navbar does not exceed the screen width */
+  box-sizing: border-box; /* Includes padding and border in the element's total width and height */
 }
 #menu.navbar-default {
   background-color: #fff;

@@ -23,107 +23,128 @@
     {
       "title": "Conveyors",
       "largeImage": "img/portfolio/large image/9.png",
-      "smallImage": "img/portfolio/small image/9.png"
+      "smallImage": "img/portfolio/small image/9.png",
+      "alt":"Conveyors"
     },
     {
       "title": "Automatic HRA Fuse resistance and Ohm Checking",
       "largeImage": "img/portfolio/large image/10.png",
-      "smallImage": "img/portfolio/small image/10.png"
+      "smallImage": "img/portfolio/small image/10.png",
+      "alt":"Automatic HRA Fuse resistance and Ohm Checking"
     },
     {
       "title": "SPM’s",
       "largeImage": "img/portfolio/large image/12.png",
-      "smallImage": "img/portfolio/small image/12.png"
+      "smallImage": "img/portfolio/small image/12.png",
+      "alt":"SPM’s"
     },
     {
       "title": "Assembly Parts",
       "largeImage": "img/portfolio/large image/13.png",
-      "smallImage": "img/portfolio/small image/13.png"
+      "smallImage": "img/portfolio/small image/13.png",
+      "alt":"Assembly Parts"
     },
     {
       "title": "Pick & Place Machines",
       "largeImage": "img/portfolio/large image/14.png",
-      "smallImage": "img/portfolio/small image/14.png"
+      "smallImage": "img/portfolio/small image/14.png",
+      "alt":"Pick & Place Machines"
     },
     {
       "title": "Electrical Panel Wiring",
       "largeImage": "img/portfolio/large image/15.png",
-      "smallImage": "img/portfolio/small image/15.png"
+      "smallImage": "img/portfolio/small image/15.png",
+      "alt":"Electrical Panel Wiring"
     },
     {
       "title": "lathe Machine",
       "largeImage": "img/portfolio/large image/7.png",
-      "smallImage": "img/portfolio/small image/7.png"
+      "smallImage": "img/portfolio/small image/7.png",
+      "alt":"lathe Machine"
     },
     {
       "title": "Surface grinding & boring and  milling machine",
       "largeImage": "img/portfolio/large image/8.png",
-      "smallImage": "img/portfolio/small image/8.png"
+      "smallImage": "img/portfolio/small image/8.png",
+      "alt":"Surface grinding & boring and  milling machine"
     },
     {
       "title": "Leak Test Rig",
       "largeImage": "img/portfolio/large image/16.png",
-      "smallImage": "img/portfolio/small image/16.png"
+      "smallImage": "img/portfolio/small image/16.png",
+      "alt":"Leak Test Rig"
     },
     {
       "title": "Bowl Feeder",
       "largeImage": "img/portfolio/large image/18.png",
-      "smallImage": "img/portfolio/small image/18.png"
+      "smallImage": "img/portfolio/small image/18.png",
+      "alt":"Bowl Feeder"
     },
     {
       "title": "Gap filler machine",
       "largeImage": "img/portfolio/large image/19.png",
-      "smallImage": "img/portfolio/small image/19.png"
+      "smallImage": "img/portfolio/small image/19.png",
+      "alt":"Gap filler machine"
     },
     {
       "title": "Electrical Assembly Part Loading",
       "largeImage": "img/portfolio/large image/20.png",
-      "smallImage": "img/portfolio/small image/20.png"
+      "smallImage": "img/portfolio/small image/20.png",
+      "alt":"Electrical Assembly Part Loading"
     },
     {
       "title": "Actuator Robot",
       "largeImage": "img/portfolio/large image/21.png",
-      "smallImage": "img/portfolio/small image/21.png"
+      "smallImage": "img/portfolio/small image/21.png",
+      "alt":"Actuator Robot"
     },
     {
       "title": "Silencer Parts Plating Bridgestone",
       "largeImage": "img/portfolio/large image/22.png",
-      "smallImage": "img/portfolio/small image/22.png"
+      "smallImage": "img/portfolio/small image/22.png",
+      "alt":"Silencer Parts Plating Bridgestone"
     },
     {
       "title": "Screw Tightening Jig",
       "largeImage": "img/portfolio/large image/23.png",
-      "smallImage": "img/portfolio/small image/23.png"
+      "smallImage": "img/portfolio/small image/23.png",
+      "alt":"Screw Tightening Jig"
     },
     {
       "title": "Car Bumping Assembly",
       "largeImage": "img/portfolio/large image/24.png",
-      "smallImage": "img/portfolio/small image/24.png"
+      "smallImage": "img/portfolio/small image/24.png",
+      "alt":"Car Bumping Assembly"
     },
     {
       "title": "Anabond Swelling Machine",
       "largeImage": "img/portfolio/large image/25.png",
-      "smallImage": "img/portfolio/small image/25.png"
+      "smallImage": "img/portfolio/small image/25.png",
+      "alt":"Anabond Swelling Machine"
     },
     {
       "title": "Sleeve Assembly Machine",
       "largeImage": "img/portfolio/large image/26.png",
-      "smallImage": "img/portfolio/small image/26.png"
+      "smallImage": "img/portfolio/small image/26.png",
+      "alt":"Sleeve Assembly Machine"
     },
     {
       "title": "Shaft Run Out Checking",
       "largeImage": "img/portfolio/large image/27.png",
-      "smallImage": "img/portfolio/small image/27.png"
+      "smallImage": "img/portfolio/small image/27.png",
+      "alt":"Shaft Run Out Checking"
     },   
    {
       "title": "Hoze Assembly & Bearing Pressing Machine",
       "largeImage": "img/portfolio/large image/28.png",
-      "smallImage": "img/portfolio/small image/28.png"
+      "smallImage": "img/portfolio/small image/28.png",
+      "alt":"Hoze Assembly & Bearing Pressing Machine"
     },
     {
       "title": "Silencer Loading Trolley",
       "largeImage": "img/portfolio/large image/29.png",
-      "smallImage": "img/portfolio/small image/29.png"
+      "smallImage": "img/portfolio/small image/29.png",
+      "alt":"Silencer Loading Trolley"
     }
   ],
   "Services": [
@@ -214,7 +235,8 @@
       "img": "img/team/user.png",
       "name": "M.Palanivel",
       "job": "Founder",
-      "description": "Palanivel started his career at TVS Wabco in 2009, then worked as an SPM Project Engineer at Dynamic Techno System from 2010 to 2018. In 2019, he founded Impact Auto Components, which has efficiently supplied all OEMs for six years under his leadership."
+      "description": "Palanivel started his career at TVS Wabco in 2009, then worked as an SPM Project Engineer at Dynamic Techno System from 2010 to 2018. In 2019, he founded Impact Auto Components, which has efficiently supplied all OEMs for six years under his leadership.",
+      "alt" : "M.Palanivel Founder of Impact auto components"
     }
   ],
   "Contact": {

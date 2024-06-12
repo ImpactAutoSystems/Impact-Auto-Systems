@@ -73,7 +73,7 @@ export const Clients = (props) => {
                   <div className="testimonial">
                     <div className="testimonial-image feature-card">
                       {" "}
-                      <img src={d.img} alt="" className='zoom-in' />{" "}
+                      <img src={d.img} alt="clients_logo" className='zoom-in' />{" "}
                     </div>
                   </div>
                 </SwiperSlide>
